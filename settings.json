@@ -25,7 +25,7 @@
     "ftoptions": true,
     "go": true,
     "go.gofmt": true,
-    "go.goimports": false,
+    "go.goimports": true,
     "hidehelp": false,
     "ignorecase": false,
     "indentchar": " ",
