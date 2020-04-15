@@ -54,7 +54,7 @@
     "CtrlShift-v": "VSplit",
     "CtrlShiftDown": "SelectDown",
     "CtrlShiftLeft": "SelectWordLeft",
-    "CtrlShiftRight": "SelectToEndOfLine",
+    "CtrlShiftRight": "SelectWordRight",
     "CtrlShiftUp": "SelectUp",
     "CtrlT": "AddTab",
     "CtrlU": "ToggleMacro",
